@@ -32,10 +32,14 @@ h1 {
   text-align: start;
   width: 15%;
   margin: 26px;
+  font-weight: bold;
 }
 .content img {
   height: 200px;
   width: 100%;
+}
+img:hover {
+  opacity: 0.5;
 }
 
 @media only screen and (max-width: 500px) {

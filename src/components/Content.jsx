@@ -5,8 +5,9 @@ const Content = (props) => {
   return (
     <div className="content">
       <img src={props.posterImg} alt=" " />
-      <p>{props.title}</p>
+      <p>Name : {props.title}</p>
       <p>Year : {props.Year}</p>
+      <p>Rating : {props.rating}</p>
     </div>
   );
 };

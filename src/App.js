@@ -16,6 +16,7 @@ const App = () => {
               posterImg={Element.Poster}
               title={Element.Title}
               Year={Element.Year}
+              rating={Element.Rating}
             />
           );
         })}

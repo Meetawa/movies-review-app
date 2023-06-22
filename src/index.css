@@ -16,3 +16,12 @@ body {
 h1 {
   margin: 0;
 }
+.content {
+  background-color: rgb(65, 78, 80);
+  border: 2px solid rgb(36, 74, 74);
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 3px;
+  font-family: bold;
+}

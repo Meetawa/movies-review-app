@@ -26,6 +26,43 @@
   {
     "Title": "The Notebook",
     "Year": "2004",
-    "Runtime": "123 min"
+    "Runtime": "123 min",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk3OTM5Njg5M15BMl5BanBnXkFtZTYwMzA0ODI3._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Title": "Pushpa:The Rise",
+    "Year": "2021",
+    "Runtime": "179 min",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmQ4YmM3NjgtNTExNC00ZTZhLWEwZTctYjdhOWI4ZWFlMDk2XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_UX140_CR0,0,140,209_AL_.jpg"
+  },
+  {
+    "Title": "Baahubali: The Beginning ",
+    "Year": "2015",
+    "Runtime": "159  min",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWVlMjVhZWYtNWViNC00ODFkLTk1MmItYjU1MDY5ZDdhMTU3XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UY209_CR0,0,140,209_AL_.jpg"
+  },
+  {
+    "Title": "RRR",
+    "Year": "2022",
+    "Runtime": "190 min",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY209_CR8,0,140,209_AL_.jpg"
+  },
+  {
+    "Title": "Saaho",
+    "Year": "2019",
+    "Runtime": "170 min",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDExZjFiYjItMmM3OS00OGUxLTliMTctMzFhZDkzMmFhMzY1XkEyXkFqcGdeQXVyMTA1NTAyMjAw._V1_UY209_CR3,0,140,209_AL_.jpg"
+  },
+  {
+    "Title": "Vikram",
+    "Year": "2022",
+    "Runtime": "180 min",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDRiOWNjYjUtMDI0ZC00MDMyLTkwZDItNTU5NWQ1NjEyNGYxXkEyXkFqcGdeQXVyMTIyNzY0NTMx._V1_UX140_CR0,0,140,209_AL_.jpg"
+  },
+  {
+    "Title": "Vikrant Rona",
+    "Year": "2022",
+    "Runtime": "149 min",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0Yjc3MWItMWMwMy00ODE1LWFiNGQtYjFmNjgzYzlmNDU3XkEyXkFqcGdeQXVyMTIyNzY0NTMx._V1_UX140_CR0,0,140,209_AL_.jpg"
   }
 ]

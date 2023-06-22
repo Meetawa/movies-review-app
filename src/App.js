@@ -9,16 +9,17 @@ const App = () => {
   return (
     <div className="app">
       <Header />
-      {Data.map((Element) => {
-        return (
-          <Content
-            posterImg={Element.Poster}
-            title={Element.Title}
-            Year={Element.Year}
-          />
-        );
-      })}
-
+      <div className="main">
+        {Data.map((Element) => {
+          return (
+            <Content
+              posterImg={Element.Poster}
+              title={Element.Title}
+              Year={Element.Year}
+            />
+          );
+        })}
+      </div>
       <Footer />
     </div>
   );

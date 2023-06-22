@@ -10,60 +10,70 @@
     "Title": "Mowgli: Legend of the Jungle",
     "Year": "2018",
     "Runtime": "104 min",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_SX300.jpg"
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_SX300.jpg",
+    "Rating": "8.5"
   },
   {
     "Title": "Doctor Strange",
     "Year": "2016",
     "Runtime": "115 min",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg"
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg",
+    "Rating": "9.0"
   },
   {
     "Title": "John Wick",
     "Year": "2014",
     "Runtime": "101 min",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg"
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg",
+    "Rating": "9.3"
   },
   {
     "Title": "The Notebook",
     "Year": "2004",
     "Runtime": "123 min",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk3OTM5Njg5M15BMl5BanBnXkFtZTYwMzA0ODI3._V1_FMjpg_UX1000_.jpg"
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk3OTM5Njg5M15BMl5BanBnXkFtZTYwMzA0ODI3._V1_FMjpg_UX1000_.jpg",
+    "Rating": "7.0"
   },
   {
     "Title": "Pushpa:The Rise",
     "Year": "2021",
     "Runtime": "179 min",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMmQ4YmM3NjgtNTExNC00ZTZhLWEwZTctYjdhOWI4ZWFlMDk2XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_UX140_CR0,0,140,209_AL_.jpg"
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmQ4YmM3NjgtNTExNC00ZTZhLWEwZTctYjdhOWI4ZWFlMDk2XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "Rating": "9.0"
   },
   {
     "Title": "Baahubali: The Beginning ",
     "Year": "2015",
     "Runtime": "159  min",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYWVlMjVhZWYtNWViNC00ODFkLTk1MmItYjU1MDY5ZDdhMTU3XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UY209_CR0,0,140,209_AL_.jpg"
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWVlMjVhZWYtNWViNC00ODFkLTk1MmItYjU1MDY5ZDdhMTU3XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "Rating": "8.8"
   },
   {
     "Title": "RRR",
     "Year": "2022",
     "Runtime": "190 min",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY209_CR8,0,140,209_AL_.jpg"
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY209_CR8,0,140,209_AL_.jpg",
+    "Rating": "8.0"
   },
   {
     "Title": "Saaho",
     "Year": "2019",
     "Runtime": "170 min",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNDExZjFiYjItMmM3OS00OGUxLTliMTctMzFhZDkzMmFhMzY1XkEyXkFqcGdeQXVyMTA1NTAyMjAw._V1_UY209_CR3,0,140,209_AL_.jpg"
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDExZjFiYjItMmM3OS00OGUxLTliMTctMzFhZDkzMmFhMzY1XkEyXkFqcGdeQXVyMTA1NTAyMjAw._V1_UY209_CR3,0,140,209_AL_.jpg",
+    "Rating": "7.9"
   },
   {
     "Title": "Vikram",
     "Year": "2022",
     "Runtime": "180 min",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMDRiOWNjYjUtMDI0ZC00MDMyLTkwZDItNTU5NWQ1NjEyNGYxXkEyXkFqcGdeQXVyMTIyNzY0NTMx._V1_UX140_CR0,0,140,209_AL_.jpg"
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDRiOWNjYjUtMDI0ZC00MDMyLTkwZDItNTU5NWQ1NjEyNGYxXkEyXkFqcGdeQXVyMTIyNzY0NTMx._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "Rating": "9.3"
   },
   {
     "Title": "Vikrant Rona",
     "Year": "2022",
     "Runtime": "149 min",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0Yjc3MWItMWMwMy00ODE1LWFiNGQtYjFmNjgzYzlmNDU3XkEyXkFqcGdeQXVyMTIyNzY0NTMx._V1_UX140_CR0,0,140,209_AL_.jpg"
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0Yjc3MWItMWMwMy00ODE1LWFiNGQtYjFmNjgzYzlmNDU3XkEyXkFqcGdeQXVyMTIyNzY0NTMx._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "Rating": "8.5"
   }
 ]

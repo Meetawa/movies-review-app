@@ -1,12 +1,12 @@
 import React from "react";
 
 const Content = (props) => {
-  console.log(props.title);
+  console.log(props.posterImg);
   return (
     <div className="content">
-      <img src="" alt="no Image" />
+      <img src={props.posterImg} alt=" " />
       <p>{props.title}</p>
-      <p>{props.Year}</p>
+      <p>Year : {props.Year}</p>
     </div>
   );
 };

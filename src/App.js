@@ -10,7 +10,13 @@ const App = () => {
     <div className="app">
       <Header />
       {Data.map((Element) => {
-        return <Content title={Element.Title} Year={Element.Year} />;
+        return (
+          <Content
+            posterImg={Element.Poster}
+            title={Element.Title}
+            Year={Element.Year}
+          />
+        );
       })}
 
       <Footer />

@@ -42,12 +42,12 @@ img:hover {
   opacity: 0.5;
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 600px) {
   .content {
     width: 33%;
   }
 }
-@media only screen and (min-width: 501px) and (max-width: 900px) {
+@media only screen and (min-width: 601px) and (max-width: 900px) {
   .content {
     width: 23%;
     margin: 28px;

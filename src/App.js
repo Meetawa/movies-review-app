@@ -5,7 +5,6 @@ import Footer from "./components/Footer";
 import Data from "./Data.json";
 
 const App = () => {
-  console.log(Data);
   return (
     <div className="app">
       <Header />

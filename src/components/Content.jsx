@@ -1,7 +1,6 @@
 import React from "react";
 
 const Content = (props) => {
-  console.log(props.posterImg);
   return (
     <div className="content">
       <img src={props.posterImg} alt=" " />

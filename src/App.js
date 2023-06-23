@@ -10,9 +10,10 @@ const App = () => {
     <div className="app">
       <Header />
       <div className="main">
-        {Data.map((Element) => {
+        {Data.map((Element, i) => {
           return (
             <Content
+              key={i}
               posterImg={Element.Poster}
               title={Element.Title}
               Year={Element.Year}

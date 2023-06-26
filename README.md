@@ -23,3 +23,16 @@ You may also see any lint errors in the console.
 ![Alt text](./public/Page_1.png)
 ![Alt text](./public/Page_2.png)
 ![Alt text](./public/Page_3.png)
+
+---
+
+### Author Links
+
+👋 Hello, I'm Rahul Saini.
+
+🚀 Follow Me:
+
+- [Twitter](https://twitter.com/rahumeetawa)
+- [LinkedIn](https://www.linkedin.com/in/rahulmeetawa/)
+
+---
